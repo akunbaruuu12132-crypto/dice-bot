@@ -1,2 +1,0 @@
-# dice-bot
-dice-bot
